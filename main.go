@@ -9,7 +9,7 @@ import (
 
 
 func main() {
-    bot, err := tgbotapi.NewBotAPI("5700919456:AAFdFEWCCOCRLu1rTcwFIrCgtJlg-u_4wno")
+    bot, err := tgbotapi.NewBotAPI("NNNN")
     if err != nil {
 		log.Panic(err)
 	}
