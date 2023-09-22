@@ -21,7 +21,7 @@ func GetHttp(text string) string {
 }
 
 func main() {
-	bot, err := tgbotapi.NewBotAPI("5700919456:AAFdFEWCCOCRLu1rTcwFIrCgtJlg-u_4wno")
+	bot, err := tgbotapi.NewBotAPI("=======")
 	if err != nil {
 		log.Panic(err)
 	}
